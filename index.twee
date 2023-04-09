@@ -1,0 +1,127 @@
+:: StoryTitle
+index
+
+
+:: StoryData
+{
+  "ifid": "7CCF5360-5769-4DEB-B33D-FF34F9280B50",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "index",
+  "zoom": 1
+}
+
+
+:: Germany {"position":"500,0","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: Japan {"position":"500,200","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: Let us find out who were those three great scientists that changed our world. {"position":"1100,200","size":"100,100"}
+
+John Bardeen
+
+Walter Brattain
+
+William Shockley
+
+
+
+:: Next Question {"position":"350,200","size":"100,100"}
+What country invented the transistor?
+
+[[Germany]]
+
+[[Japan]]
+
+[[United States]]
+
+
+
+:: On December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. Bell Labs was the research arm of the American Telephone and Telegraph (AT&T). {"position":"900,200","size":"100,100"}
+Awesome
+
+ [[Let us find out who were those three great scientists that changed our world.]]
+
+
+
+:: On December 23, 1947, at Harvard University in Physics Laboratories. {"position":"900,0","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: On January 15, 1948, at the Massachusetts Institute of Technology (MIT) In the Electronic Laboratories. {"position":"900,400","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: One {"position":"700,0","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: Three {"position":"700,400","size":"100,100"}
+Correct
+
+What year and Where the first transistor was successfully demonstrated?
+
+A - [[On December 23, 1947, at Harvard University in Physics Laboratories.]]
+
+
+B- [[On December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. Bell Labs was the research arm of the American Telephone and Telegraph (AT&T).]]
+
+
+C- [[On January 15, 1948, at the Massachusetts Institute of Technology (MIT) In the Electronic Laboratories.]]
+
+
+
+:: Transistor {"position":"225,300","size":"100,100"}
+Correct
+
+[[Next Question]]
+
+
+:: Two {"position":"700,200","size":"100,100"}
+Wrong
+
+Go back and try again
+
+
+:: United States {"position":"500,400","size":"100,100"}
+Correct
+
+How many American scientists invented the transistor?
+
+[[One]]
+
+[[Two]]
+
+[[Three]]
+
+
+
+:: Vacuum Tube {"position":"225,100","size":"100,100"}
+Wrong 
+
+Go Back and try again
+
+
+:: index {"position":"100,200","size":"100,100"}
+Hello Class, This game will discover your knowledge about inventions that changed our world in digital technology.
+
+What is the father of current digital technology that we call chips?
+
+[[Vacuum Tube]]
+
+[[Transistor]]
+
